@@ -1,0 +1,24 @@
+Paradas a partir del punto de mapeo designado: 
+
+PUNTO DE PARTIDA: x: 1741, y: 397.
+
+1) Rotonda Betania = Coor: 196, x: 1639, y: 309
+2) Acueductos Guada = Coor: 484, x: 1557, y: 232
+3) Liceo Joaquín Jiménez = Coor: 625, x: 1443, y: 260
+4) Hotel Caribbean = Coor: 1027, x: 1148, y: 307
+5) Escuela Juan Rafael = Coor: 1563, x: 920, y: 404
+6) Colegio María Auxiliadora = Coor: 1660, x: 830, y: 396
+7) Parqueo Yamuni = Coor: 1775, x: 801, y: 429
+8) Plásticos Tosso = Coor: 2104, x: 904, y: 585
+9) Súper Lian = Coor: 2344, x: 794, y: 684
+10) Ciudad Deportiva = Coor: 2569, x: 681, y: 681
+
+11) Terminal Hatillo = Coor: 2779, x: 664, y: 806
+12) Rest. La Fortuna = Coor: 2860, x: 709, y: 765
+13) Plaza América = Coor: 3108, x: 765, y: 847
+14) Taller Gernón = Coor: 3385, x: 1074, y: 868
+15) Cevichería Costa Azúl = Coor: 3457, x: 1154, y: 861
+16) Parque Monte Azul = Coor: 3557, x: 1264, y: 853
+17) Abastecedor Sauces = Coor: 3729, x: 1355, y: 902
+18) Parque San Fra = Coor: 3971, x: 1553, y: 859
+19) Colegio Salesiano = Coor: 4250, x: 1600, y: 548
