@@ -1,5 +1,7 @@
 # Camino-Perif-rica-Programaci-n-Concurrente-y-Cliente-Servidor
-Sistema que recorre el camino de la periférica, mostrando todos los buses de manera simultanea; cada camino de cada bus se controla por medio de un hilo, y el servidor le envía al programa cliente cuál será la próxima parada del bus que haya sido seleccionado para seguimiento. Se resuelve la concurrencia entre los buses cada vez que uno se detiene y el de atrás lo alcanza.
+Sistema que recorre el camino de la periférica, mostrando todos los buses de manera simultanea; cada camino de cada bus se controla por medio de un hilo, y el servidor le envía al programa cliente cuál será la próxima parada del bus que haya sido seleccionado para seguimiento. Se resuelve la concurrencia entre los buses cada vez que uno se detiene y el de atrás lo alcanza. 
+
+Las coordenadas de los autobuses son leídas cada cierto tiempo por cada hilo. Las coordenadas generales fueron mappeadas utilizando la localización en el plano del mouse y un evento de Java SWING que detectaba el momento en el que el mouse pasaba por encima del canvas; escribiendo una coordenada nueva cada vez que este se movía. Las coordenadas fueron almacenadas en un archivo de texto. 
 
 NOTA: Tanto el software cliente como el servidor deben estar iniciados antes de presionar algún botón de simulación para que el software funcione de la manera correcta. 
 NOTA 2: Desarrollado en pantalla de resolución 3440 x 1440. Esto permite mostrar el mapa completo y las otras ventanas. El programa puede presentar problemas en resoluciones inferiores.
